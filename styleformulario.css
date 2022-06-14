@@ -1,0 +1,48 @@
+form > div, fieldset {
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+textarea{
+    vertical-align: text-top;
+    width: 300px;
+    height:150px ;
+}
+
+label{
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+    font-weight: 200;
+
+}
+
+div.cadastro{
+    padding-left:150 px;
+}
+
+.cadastro label{
+    width: 300px;
+    text-align: left;
+}
+
+fieldset{
+    padding-left: 0;
+    background-color: aliceblue;
+    border: 1px solid #AAA;
+}
+
+form{
+    weight: 700px
+}
+
+legend{
+    color: #0000CC;
+    text-shadow: 0 0 5px rgb(141, 20, 20);
+    font-weight:bold;
+    font-variant: small-caps;
+    
+}
+h1{
+    text-shadow: 0 0 5px rgb(141, 20, 20);
+}
